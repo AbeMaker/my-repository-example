@@ -1,2 +1,2 @@
 # my-repository-example
-# New changes added to my acc
+# New changes added to my account
